@@ -9,5 +9,13 @@
     "postinstall": "echo \"postinstall fired\""
   },
   "author": "Micha Krapp<github@michakrapp.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michakrapp/tr-commons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michakrapp/tr-commons/issues"
+  },
+  "homepage": "https://github.com/michakrapp/tr-commons"
 }
