@@ -1,0 +1,13 @@
+{
+  "name": "tr-commons",
+  "version": "0.26.666",
+  "description": "Test install hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "echo \"preinstall fired\"",
+    "postinstall": "echo \"postinstall fired\""
+  },
+  "author": "Micha Krapp<github@michakrapp.com>",
+  "license": "ISC"
+}
