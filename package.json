@@ -1,6 +1,6 @@
 {
   "name": "tr-commons",
-  "version": "0.26.667",
+  "version": "0.26.668",
   "description": "Test install hooks",
   "main": "index.js",
   "scripts": {
